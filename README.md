@@ -9,7 +9,7 @@ Example build for SSD1306 Oled driver on Adafruit displays.
 https://learn.adafruit.com/adafruit-pioled-128x32-mini-oled-for-raspberry-pi/overview
 
 ## ToDo
-Exmapnd to SPI based Serial Displays
+Expand to SPI based Serial Displays
 
 ## License
 
